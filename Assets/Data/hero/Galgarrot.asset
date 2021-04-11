@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7347e0aff334ce744b5ab26a7da1555a, type: 3}
+  m_Name: Galgarrot
+  m_EditorClassIdentifier: 
+  Name: Galgarrot
+  HeroPrefab: {fileID: 119316057633758750, guid: 8745973efdd6c19498ad7a0dca6f21c3, type: 3}
+  Ultimate: {fileID: 11400000, guid: 5b1cba83c891a4745a5cb8d9a40c59bd, type: 2}
